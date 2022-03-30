@@ -1,0 +1,10 @@
+{
+  "id": "CCM6EY6R",
+  "name": "ResO Payment",
+  "merchant_code": "MDRMYEXA",
+  "client_id": "8q9OoCPmGPOVXbxZDBpwVLHm_9nD",
+  "client_secret": "610dbf36b48f638852cb553ac95eee103349e7a471733186a47e5e44fd0d9b5f",
+  "application_type": "web",
+  "redirect_uris": [ "https://reservation.squash-arena.ch:4441/callback" ],
+  "cors_uris": [ "https://reservation.squash-arena.ch:4441/" ]
+}

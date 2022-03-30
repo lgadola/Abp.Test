@@ -1,0 +1,15 @@
+{
+  "id": "CCKFTH2M",
+  "name": "Squash Arena Uster",
+  "client_id": "lBVRI9pjlh0FXjN4zY_1POb8B3LB",
+  "client_secret": "954056f7bed956032e1b11e3c6719b247de60af66fd816ba932c6fdfdb77f04e",
+  "application_type": "web",
+  "redirect_uris": [
+    "https://reservation.squash-arena.ch:4431/callback"
+  ],
+  "cors_uris": [
+    "https://reservation.squash-arena.ch:4431"
+  ],
+  "email": "reservation@squash-arena.ch",
+  "merchant_code":  "MCTRZKR2"
+}
